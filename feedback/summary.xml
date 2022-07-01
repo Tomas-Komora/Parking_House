@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><evaluation>
+  <exam>B-VSA 21/22 Semestrálny projekt 2</exam>
+  <student>
+    <group>B</group>
+    <aisId>null</aisId>
+    <name>Tomas-Komora</name>
+    <email>null</email>
+  </student>
+  <github>Tomas-Komora</github>
+  <testsRuns>
+    <required>
+      <testsRun>
+        <totalRun>253</totalRun>
+        <success>163</success>
+        <failure>90</failure>
+        <skip>0</skip>
+        <points>13</points>
+      </testsRun>
+    </required>
+    <bonus>
+      <testsRun>
+        <totalRun>51</totalRun>
+        <success>19</success>
+        <failure>32</failure>
+        <skip>0</skip>
+        <points>2</points>
+      </testsRun>
+    </bonus>
+  </testsRuns>
+  <totalPoints>15</totalPoints>
+  <notes/>
+  <testDuration>PT3M6.404S</testDuration>
+</evaluation>
